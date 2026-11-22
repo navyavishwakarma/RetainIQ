@@ -110,6 +110,43 @@ SQLite is used to store customer data and perform analytical queries, including:
 
 The risk segments are heuristic categories based on selected customer characteristics, not outputs of the trained machine learning model.
 
+
+## Application Preview
+
+### Streamlit Application
+
+RetainIQ provides an interactive interface for customer churn prediction, risk assessment, SHAP explanations, and retention recommendations.
+
+![Streamlit Application 1](reports/screenshots/streamlit_app_1.png)
+
+![Streamlit Application 2](reports/screenshots/streamlit_app_2.png)
+
+![Streamlit Application 3](reports/screenshots/streamlit_app_3.png)
+
+![Streamlit Application 4](reports/screenshots/streamlit_app_4.png)
+
+![Streamlit Application 5](reports/screenshots/streamlit_app_5.png)
+
+### Power BI Dashboard
+
+#### Executive Overview
+
+![Power BI Executive Overview](reports/screenshots/powerbi_overview.png)
+
+#### Churn Drivers and Risk Analysis
+
+![Power BI Risk Analysis](reports/screenshots/powerbi_risk_analysis.png)
+
+### SHAP Explainability
+
+#### Feature Importance
+
+![SHAP Feature Importance](reports/shap_feature_importance.png)
+
+#### SHAP Beeswarm Plot
+
+![SHAP Beeswarm](reports/shap_beeswarm.png)
+
 ## Power BI Dashboard
 
 The Power BI dashboard presents two analytical views:
