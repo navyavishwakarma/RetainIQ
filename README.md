@@ -177,9 +177,6 @@ RetainIQ/
 │   ├── schema.sql
 │   └── analysis.sql
 │
-├── src/
-│
-│
 ├── RetainIQ_Dashboard.pbix
 ├── requirements.txt
 ├── .gitignore
@@ -191,7 +188,7 @@ RetainIQ/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RetainIQ.git
+git clone https://github.com/navyavishwakarma/RetainIQ.git
 cd RetainIQ
 ```
 
